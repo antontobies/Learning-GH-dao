@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, new world!")
             // comment inserted
+            // another new comment
         }
         .padding()
     }
